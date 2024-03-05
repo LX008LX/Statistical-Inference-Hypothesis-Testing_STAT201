@@ -4,6 +4,8 @@ Making inference about a client’s decision on subscribing to a term deposit ba
 
 Contributors: Lily, Ece, Spencer, Sophie
 
+## Introduction
+
 This project will dive into marketing data from a Portuguese banking institution to evaluate the effect of direct marketing campaigns on term deposit subscriptions. This dataset was obtained from the UCI machine learning repository from the following link:
 
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
